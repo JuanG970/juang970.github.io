@@ -1,200 +1,212 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Juan Angel Gonzalez Aguirre",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "juan.angel19@hotmail.com",
+    "github": "JuanG970",
+    "summary": 
+      "Experienced software engineer with a track record of creating intelligent and robust software systems. As a special projects developer at Wolfram, I have successfully developed a variety of internal tools and software for finance, outreach, HR, and other departments. During my MSc thesis project, I made an appearance on Shark Tank Mexico. I have a deep technical expertise in design of software systems, Python and Wolfram Language, and I am committed to applying those skills to deliver business value.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Mexico City",
+      "countryCode": "MX"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Wolfram",
+      "company": "Wolfram",
+      "position": "Special Projects Developer",
+      "url": "https://wolfram.com",
+      "startDate": "2022-05-15",
+      "endDate": "2023-12-31",
+      "summary": "As a Special Projects Developer at Wolfram, I translate business requirements into software solutions that effectively solve problems. My expertise with the Wolfram technology stack allows for seamless integration with other systems, including relational databases, other programing languages, ERPs, external websites and RESTful APIs."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "ITESM",
+      "url": "https://tec.mx/",
+      "area": "Specialization in Robotics and Manufacturing Systems",
+      "studyType": "Master of Science",
+      "startDate": "2018-09-01",
+      "endDate": "2022-07-01"
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "ITESM",
+      "url": "https://tec.mx/",
+      "area": "",
+      "studyType": "Mechatronics Engineering",
+      "startDate": "2018-09-01",
+      "endDate": "2022-07-01"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "The Data Scientist's Toolbox",
+      "date": "2020-06-29",
+      "issuer": "Johns Hopkins University via Coursera.",
+      "url": "https://coursera.org/share/ce1fe66b2434a55b62410148ef249618"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Managing Machine Learning Projects with Google Cloud",
+      "date": "2020-05-07",
+      "issuer": "Google Cloud via Coursera.",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/5KRU2M7E72D5"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator",
+      "date": "2021-11-07",
+      "issuer": "Yale University via Coursera.",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/2C9GCGES26PT"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Types of Conflict",
+      "date": "2020-08-16",
+      "issuer": "University of California Irvine via Coursera.",
+      "url": "https://coursera.org/share/cdb821468d136e3234ba4ce352fcc236"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Excel/VBA for Creative Problem Solving",
+      "date": "2020-07-07",
+      "issuer": "University of Colorado Boulder via Coursera.",
+      "url": "https://coursera.org/share/cdb821468d136e3234ba4ce352fcc236"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Web Application Technologies and Django",
+      "date": "2023-06-03",
+      "issuer": "University of Michigan via Coursera",
+      "url": "https://coursera.org/share/c89f8fbfed44f58072e7a0bb759d4a31"
+    },
+    {
+      "name": "Building Web Applications in Django",
+      "date": "2023-07-09",
+      "issuer": "University of Michigan via Coursera",
+      "url": "https://coursera.org/share/d777d44a7fa4315e2de7b73cfff03c7e"
+    },
+    {
+      "name": "Djang Features and Libraries",
+      "date": "2023-09-24",
+      "issuer": "University of Michigan via Coursera",
+      "url": "https://coursera.org/share/4a29eac913864f0614e324848d9ed46e"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Service Robots: Trends and Technology",
+      "publisher": "MDPI",
+      "releaseDate": "2021-11-12",
+      "url": "https://doi.org/10.3390/app112210702",
+      "summary": "Comprehensive review for the actual state of the art for service robots and the whole technological stack studying topics such as artificial intelligence, integration of technology, current applications, control systems among others topics."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "PiBOT: Design and Development of a Mobile Robotic Platform for COVID-19 Response",
+      "publisher": "Springer",
+      "releaseDate": "2021-11-21",
+      "url": "https://doi.org/10.1007/978-3-030-90033-5_27",
+      "summary": "Development, software system design, tests and integration for a COVID-19 response service robot. This publication and the development of the system gained attention for media like SharkTank Mexico."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+        "Python - Familiar with OOP, pandas, numpy, sympy and requests",
+        "SQL - Database creation and administration, familiar with Marta and HSQL",
+        "Wolfram Language - Quick software prototyping, scientific programming, systems integration and mathematical modelling",
+        "C++ - OOP, command line tools, automation, high performance software for critical systems",
+        "Version control systems - git from the command line, standard documentation practices, Markdown, LaTeX, semantic versioning",
+        "Tools - Familiarity with linux command line, make, cmake, ssh, Jira, SCRUM metodology",
+        "Programming Languages - Python, C++, Javascript, Mathematica, Matlab, Bash, Modellica, MiniZinc, Haskell",
+        "Python - Familiar with OOP, pandas, numpy, sympy and requests",
+        "Control Theory - Non-linear control systems, discrete control systems, simulation and system identification.",
+        "Stochastic Processes - Modelling, simulation and identification",
+        "Game Theory - Decision making strategies, negotiation, modelling",
+        "Optimization - Convex optimization, stochastic optimization.",
+        "AI - Training, implementation, natural language processing, expert systems",
+        "Mathematica - Quick software prototyping, scientific programming, systems integration and mathematical modelling",
+        "Tools - Familiarity with linux command line, git,  make, cmake, ssh, Jira, SCRUM methodology, LaTeX, Markdown"
+    ]
+  },
+    {
+      "name": "Robotics and Control Systems",
+      "level": "Master",
+      "keywords": [
+        "ROS - Package development, navigation, state machine, custom algorithms development, rospy",
+        "Embedded systems",
+        "Model development",
+        "Non-linear control techniques - "
+    ]
+  },
+    {
+      "name": "Manufacturing Systems",
+      "level": "Intermediate",
+      "keywords": [
+        "Quick prototyping",
+        "Innovation techniques",
+        "Manufacturing technologies",
+        "CAD and CAM",
+        "Manufacturing modelling",
+        "Product design"
+    ]
+  }
+  
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Spanish",
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Music",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Guitar",
+        "I play multiple instruments",
+        "Published a few songs online"
+      ]
+    },
+    {
+      "name": "Videogames",
+      "keywords": [
+        "Retro games",
+        "Emulation"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "projects": [{
+    "name": "PiBOT: Service Robot",
+    "description": "Autonomous ground vehicle created as a response to COVID-19, the robot was capable of navigate through an uncontrolled space, detect people and infere if they were using facemaks and respecting safety ditance as well as measure the body temperature. Capable of being remotely controlled via a web application.",
+    "highlights": [
+      "Involved in a colaboration with MachineCare, industrial partner",
+      "Winner of BRAiN Mexico 2020 and a cash price of 5000 USD",
+      "Numerous mentions in local news and media",
+      "Featured in the TV show SharkTank Mexico"
+    ],
+    "keywords": [
+      "Robotics",
+      "Software systems",
+      "AI",
+      "ROS",
+      "Python",
+      "Enterprenourship",
+      "Product design"
+    ],
+    "startDate": "2020-12-01",
+    "endDate": "2022-04-05",
+    "url": "https://pibot.crd.co/",
+    "roles": [
+      "Team Leader",
+      "System Designer",
+      "Navigation algorithm developer"
+    ],
+    "entity": "Product",
+    "type": "Software System"
+  }]
 }
