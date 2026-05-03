@@ -16,7 +16,7 @@ env = "production"
 description = "Juan Gonzalez - Personal Website, Blog, and CV"
 author = "Juan Gonzalez"
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
@@ -26,7 +26,7 @@ defaultTheme = "auto" # auto, dark, or light
 [params.profileMode]
 enabled = true
 title = "Juan Angel Gonzalez Aguirre"
-subtitle = "Software Engineer & Researcher | Special Projects @ Wolfram | Emacs Org-mode Contributor"
+subtitle = "Software Engineer & Researcher | Special Projects @ Wolfram"
 imageUrl = "images/profile_pic.jpeg" # Optional: add a profile image URL here
 imageWidth = 150
 imageHeight = 150
@@ -47,6 +47,10 @@ url = "/posts"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/juang970"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/" # Remember to add your linkedin profile!
 
 [[params.socialIcons]]
 name = "email"
