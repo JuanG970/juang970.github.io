@@ -50,11 +50,11 @@ url = "https://github.com/juang970"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.com/" # Remember to add your linkedin profile!
+url = "https://www.linkedin.com/in/jgonzalez-aguirre/"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:juan.angel19@hotmail.com"
+url = "mailto:contact@juan-gonzalez.com"
 
 # Main Menu
 [[menu.main]]

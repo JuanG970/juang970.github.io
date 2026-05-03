@@ -1,12 +1,11 @@
-:PROPERTIES:
-:ID:       6f08e6e9-618a-4487-a266-ff95f5474e13
-:END:
 #+title: Joining the Org-mode Maintenance Team
 #+date: 2026-05-03
 #+draft: false
 #+tags[]: emacs org-mode open-source meta
 #+type: post
-
+:PROPERTIES:
+:ID:       67265e65-8d32-49d1-8c1b-ccef1911ae48
+:END:
 I was checking the news and the org-mode reddit feed when I saw the following post from one of the emcs org mode current maintainers:
 
 #+begin_src 

@@ -1,35 +1,75 @@
 #+title: About Me & CV
 #+date: 2024-05-03
 #+draft: false
-#+layout: page
+#+type: page
 
 * Hello!
 :PROPERTIES:
-:ID:       be2de5d6-03f7-4b07-84ca-6a29b50951f1
+:ID:       a552fdfc-abcd-4cfa-81c3-636c2a07adb1
 :END:
-I am Juan Gonzalez, a Software Engineer.
+I am *Juan Angel Gonzalez Aguirre*, an experienced Software Engineer with a track record of creating intelligent and robust software systems. As a Special Projects Developer at Wolfram, I translate business requirements into software solutions that effectively solve problems.
+
+My expertise with the Wolfram technology stack allows for seamless integration with other systems, including relational databases, other programming languages, ERPs, external websites, and RESTful APIs.
+
+During my MSc thesis project, I led the development of a service robot and even made an appearance on Shark Tank Mexico. I have deep technical expertise in the design of software systems, Python, and the Wolfram Language, and I am committed to applying those skills to deliver business value.
 
 * Curriculum Vitae
 :PROPERTIES:
-:ID:       1ebb4975-4407-4cd2-973a-b8fe0b3721a8
+:ID:       a8446bb8-758f-43d1-a74d-68fad4699bd4
 :END:
-** Education
-:PROPERTIES:
-:ID:       1aaa6039-d74f-4660-ae5c-2a828f8ce835
-:END:
-- *B.Sc. in Computer Science*, University of Example (2015-2019)
-- *M.Sc. in Computer Science*, University of Example (2019-2021)
 
 ** Experience
 :PROPERTIES:
-:ID:       973c846c-2ef8-4ea7-9562-0d4e56c46553
+:ID:       95c16be8-8bf7-4246-9444-5d49cdefb3ce
 :END:
-- *Software Engineer*, Example Corp (2021-Present)
-  Working on distributed systems and high-performance computing.
+- *Special Projects Developer*, [[https://www.wolfram.com/][Wolfram]] (May 2022 - Present)
+  As a Special Projects Developer at Wolfram, I translate business requirements into software solutions that effectively solve problems. My expertise with the Wolfram technology stack allows for seamless integration with other systems.
 
-* Papers & Publications
+** Education
 :PROPERTIES:
-:ID:       dd06315c-0e3e-486b-a698-0d75c99131af
+:ID:       7af987c0-bfdd-4e4d-8129-842d0d12d2bf
 :END:
-1. Gonzalez, J., et al. "An interesting paper on Distributed Systems." /Journal of Computer Science/ (2023).
-2. Gonzalez, J., et al. "Another paper." /Conference on Systems/ (2022).
+- *Master of Science*, Specialization in Robotics and Manufacturing Systems
+  [[https://tec.mx/en][Tec de Monterrey (ITESM)]] (2015 - 2020)
+- *Mechatronics Engineering*
+  ITESM (2015 - 2020)
+
+** Publications
+:PROPERTIES:
+:ID:       bdc98aba-402f-47cb-b874-e381d3680f29
+:END:
+1. *Service Robots: Trends and Technology* (MDPI, Nov 2021)
+   Comprehensive review for the actual state of the art for service robots and the whole technological stack studying topics such as artificial intelligence, integration of technology, current applications, control systems among others topics.
+   [[https://doi.org/10.3390/app112210702][Link to Paper]]
+
+2. *PiBOT: Design and Development of a Mobile Robotic Platform for COVID-19 Response* (Springer, Nov 2021)
+   Development, software system design, tests and integration for a COVID-19 response service robot. This publication and the development of the system gained attention for media like SharkTank Mexico.
+   [[https://doi.org/10.1007/978-3-030-90033-5_27][Link to Paper]]
+
+** Skills
+:PROPERTIES:
+:ID:       f94940b2-b0cb-4f62-9def-50660f2a89bb
+:END:
+- *Computer Science:* Python, C++, SQL, Wolfram Language, Javascript, Bash, Haskell. OOP, automation, git, CMake, Jira, Scrum.
+- *Robotics & Control:* ROS, Embedded systems, Non-linear control, System identification, Navigation algorithms.
+- *AI & Math:* Stochastic Processes, Game Theory, Convex optimization, Natural Language Processing.
+- *Manufacturing:* CAD/CAM, Rapid Prototyping, Product design.
+
+** Certificates
+:PROPERTIES:
+:ID:       6d33fe87-38c8-49fc-b8ba-6357bb25058b
+:END:
+- *Django Specialization* (University of Michigan via Coursera)
+  - Web Application Technologies and Django
+  - Building Web Applications in Django
+  - Django Features and Libraries
+- *Managing Machine Learning Projects with Google Cloud* (Google Cloud via Coursera)
+- *The Data Scientist's Toolbox* (Johns Hopkins University via Coursera)
+- *Introduction to Negotiation & Types of Conflict* (Yale & UC Irvine via Coursera)
+
+** Interests
+:PROPERTIES:
+:ID:       7ab00786-b3cc-4919-bff4-f5b7cb5d8b42
+:END:
+- Music (I play multiple instruments and publish songs online)
+- Retro Videogames and Emulation
