@@ -1,7 +1,7 @@
 #+title: Hello World: Moving to Hugo
 #+date: 2024-05-03T14:00:00Z
 #+draft: false
-#+tags: meta hugo emacs
+#+tags[]: meta hugo emacs
 
 Welcome to the new setup! I've migrated from a heavy Jekyll template to a much simpler, faster Hugo site using the ~PaperMod~ theme.
 
