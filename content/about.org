@@ -4,27 +4,32 @@
 #+layout: page
 
 * Hello!
-I am Juan Gonzalez, a Software Engineer and Researcher.
+:PROPERTIES:
+:ID:       be2de5d6-03f7-4b07-84ca-6a29b50951f1
+:END:
+I am Juan Gonzalez, a Software Engineer.
 
 * Curriculum Vitae
+:PROPERTIES:
+:ID:       1ebb4975-4407-4cd2-973a-b8fe0b3721a8
+:END:
 ** Education
+:PROPERTIES:
+:ID:       1aaa6039-d74f-4660-ae5c-2a828f8ce835
+:END:
 - *B.Sc. in Computer Science*, University of Example (2015-2019)
 - *M.Sc. in Computer Science*, University of Example (2019-2021)
 
 ** Experience
+:PROPERTIES:
+:ID:       973c846c-2ef8-4ea7-9562-0d4e56c46553
+:END:
 - *Software Engineer*, Example Corp (2021-Present)
   Working on distributed systems and high-performance computing.
 
 * Papers & Publications
+:PROPERTIES:
+:ID:       dd06315c-0e3e-486b-a698-0d75c99131af
+:END:
 1. Gonzalez, J., et al. "An interesting paper on Distributed Systems." /Journal of Computer Science/ (2023).
 2. Gonzalez, J., et al. "Another paper." /Conference on Systems/ (2022).
-
-* Technical Setup
-Because Hugo natively understands Org-mode, I can embed code directly in my CV or technical pages easily:
-
-#+begin_src python
-def hello_world():
-    print("This is rendered perfectly by Hugo!")
-
-hello_world()
-#+end_src

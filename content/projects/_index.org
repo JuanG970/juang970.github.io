@@ -3,8 +3,3 @@
 
 Here is a collection of my open-source projects and academic work.
 
-* [[https://github.com/juang970][Project Alpha]]
-A brief description of this project. Built using Python and Rust. It focuses on solving X by implementing Y.
-
-* [[https://github.com/juang970][Project Beta]]
-A high-performance library for doing something cool. Written in C++.

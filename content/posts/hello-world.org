@@ -1,11 +1,14 @@
-#+title: Hello World: Moving to Hugo
+#+title: Hello World: Starting a new blog
 #+date: 2024-05-03T14:00:00Z
 #+draft: false
 #+tags[]: meta hugo emacs
 
-Welcome to the new setup! I've migrated from a heavy Jekyll template to a much simpler, faster Hugo site using the ~PaperMod~ theme.
+Welcome to my blog! I've migrated from a heavy Jekyll template to a much simpler, faster Hugo site using the ~PaperMod~ theme.
 
 * Why the change?
+:PROPERTIES:
+:ID:       65f8a824-760e-4aa4-8bee-d65eadc23549
+:END:
 The old setup was overkill. It relied on Ruby, Node.js, Docker, and had hundreds of configuration files.
 
 Now, my workflow is incredibly simple:
@@ -13,16 +16,25 @@ Now, my workflow is incredibly simple:
 2. Run ~hugo~ to build (or just let GitHub Actions do it).
 3. Occasionally write a quick file on my phone, which syncs seamlessly.
 
-* Code Highlights
-Here's an example of how nice the code blocks look out of the box:
 
-#+begin_src bash
-# This is how simple building the site is now
-hugo server -D
-#+end_src
+I will try to force myself and actually post new blog entries every week or so. You can expect to read about (but not limited to):
+- The following programming languages: Wolfram language, lisp, python, haskell
+- Software Engineering in general
+- Music
+- AI
+- Robotics
+- Electronics
+- Applied Mathematics
+- Any mixture of the above
 
-#+begin_src rust
-fn main() {
-    println!("Hello, simple static site!");
-}
-#+end_src
+Also I will try to keep an engineering log of my projects as they evolve.
+
+** Why?
+:PROPERTIES:
+:ID:       3be38251-189b-42b1-a59c-353fe5da07b3
+:END:
+#+begin_quote
+"An idea is nothing until you write it down"
+#+end_quote
+
+I just want to share what I am doing, my philosophy, and what I am working on. Who knows, maybe other people will find it useful. Or maybe not, which is good as well you can prove me wrong so that we can learn together.
