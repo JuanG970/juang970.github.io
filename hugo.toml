@@ -25,11 +25,11 @@ defaultTheme = "auto" # auto, dark, or light
 
 [params.profileMode]
 enabled = true
-title = "Juan Gonzalez"
-subtitle = "Software Engineer & Researcher"
-imageUrl = "" # Optional: add a profile image URL here
-imageWidth = 120
-imageHeight = 120
+title = "Juan Angel Gonzalez Aguirre"
+subtitle = "Software Engineer & Researcher | Special Projects @ Wolfram | Emacs Org-mode Contributor"
+imageUrl = "/images/profile_pic.jpeg" # Optional: add a profile image URL here
+imageWidth = 150
+imageHeight = 150
 imageTitle = "Juan Gonzalez"
 
 [[params.profileMode.buttons]]
@@ -47,6 +47,10 @@ url = "/posts"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/juang970"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:juan.angel19@hotmail.com"
 
 # Main Menu
 [[menu.main]]
