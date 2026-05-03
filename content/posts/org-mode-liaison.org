@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       6f08e6e9-618a-4487-a266-ff95f5474e13
+:END:
+#+title: Joining the Org-mode Maintenance Team
+#+date: 2026-05-03
+#+draft: false
+#+tags[]: emacs org-mode open-source meta
+#+type: post
+
+I was checking the news and the org-mode reddit feed when I saw the following post from one of the emcs org mode current maintainers:
+
+#+begin_src 
+[ANN] Join Org mode contributor liaison team and help maintaining Org mode
+
+Dear all,
+
+TL;DR: We are looking for volunteers who are ready to help with initial
+review of 4 to 8 bugs, patches, or feature requests every month.
+No deep Elisp skills required; just being kind. "Initial review" can be
+as simple as marking new emails for our bug tracker by replying with
+"Confirmed." in email body to bug reports.
+#+end_src
+
+Without much hope, I replied:
+
+#+begin_src 
+Hi everyone,
+
+I recently came across the Org maintenance post and would like to volunteer my time to help the project. I can handle approximately one email per week.
+
+About my background:
+
+Experience: I have 4 years of professional software engineering experience, primarily in python and Wolfram Language.
+
+Elisp & Org: I am comfortable writing Emacs Lisp and use Org mode heavily on a daily basis for my professional workflow.
+
+Contributions: I have previously contributed commits to org-jira, a tool which I use almost daily as well.
+
+Let me know how if you are interested.
+#+end_src
+
+
+And, looks like they are interested! They replied back saying that since I have some lisp/elisp knowlege I could handle more technical reviews and diffs. And then added me to the contributor liaison list:
+
+[[/images/posts/org-mode-liaison/SCR-20260503-pbkn.png]]
+
+https://git.sr.ht/~bzg/worg/commit/1f32d902
+
+I love org mode for several reasons and I am excited to help even a little bit on this great project. I will document my setup for this in the next few days, my goal will be to review at least one report or email per week. Let's see how it evolves.
+

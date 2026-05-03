@@ -1,5 +1,26 @@
 #+title: Projects
 #+type: page
 
-Here is a collection of my open-source projects and academic work.
+Here is a collection of my open-source projects, academic work, and robotics developments.
 
+*  Projects I am currently working on
+:PROPERTIES:
+:ID:       d49848af-5ea3-4b70-8e9f-911cfc54a3bd
+:END:
+
+I will add more details on those as I post blog entries but a quick short list is:
+
+- org-warrior: Taskwarrior but with org mode as a backend. Written in python and lisp.
+- stash-cli: A python terminal tool to get and render pull-requests from a stash/bit-bucket servers.
+- Occasional contributor to [[https://github.com/ahungry/org-jira][org-jira]].
+- Recently I volunteered myself to Org mode maintenance as Liaison/Email support. ([[{{< ref "posts/org-mode-liaison.org" >}}][Read my blog post about it]]) We will see how it evolves.
+  
+* PiBOT: Service Robot
+:PROPERTIES:
+:ID:       f037e87d-30ed-4e29-9038-f5701646e437
+:END:
+An autonomous ground vehicle created as a response to COVID-19. The robot was capable of navigating through uncontrolled spaces, detecting people, and inferring if they were using facemasks and respecting safety distance, as well as measuring body temperature. It could be remotely controlled via a web application.
+
+- *Roles:* Team Leader, System Designer, Navigation algorithm developer
+- *Highlights:* [[https://www.youtube.com/watch?v=axDlAnh-ITc][Featured]] on the TV show SharkTank Mexico, Winner of [[https://conecta.tec.mx/es/noticias/monterrey/emprendedores/brain-mexico-la-iniciativa-para-acelerar-negocios-cientificos][BRAiN Mexico]] 2020 (5000 USD prize), developed in collaboration with [[https://machinecare.com.mx/][MachineCare]].
+- *Technologies:* ROS, Python, AI, Software Systems.
