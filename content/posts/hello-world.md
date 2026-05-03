@@ -1,0 +1,30 @@
+---
+title: "Hello World: Moving to Hugo"
+date: 2024-05-03T14:00:00Z
+draft: false
+tags: ["meta", "hugo", "emacs"]
+---
+
+Welcome to the new setup! I've migrated from a heavy Jekyll template to a much simpler, faster Hugo site using the `PaperMod` theme.
+
+### Why the change?
+The old setup was overkill. It relied on Ruby, Node.js, Docker, and had hundreds of configuration files.
+
+Now, my workflow is incredibly simple:
+1. Write files in Emacs using **Org-mode** or **Markdown**.
+2. Run `hugo` to build (or just let GitHub Actions do it).
+3. Occasionally write a quick `.md` file on my phone, which syncs seamlessly.
+
+### Code Highlights
+Here's an example of how nice the code blocks look out of the box:
+
+```bash
+# This is how simple building the site is now
+hugo server -D
+```
+
+```rust
+fn main() {
+    println!("Hello, simple static site!");
+}
+```

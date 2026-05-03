@@ -1,0 +1,30 @@
+#+title: About Me & CV
+#+date: 2024-05-03
+#+draft: false
+#+layout: page
+
+* Hello!
+I am Juan Gonzalez, a Software Engineer and Researcher.
+
+* Curriculum Vitae
+** Education
+- *B.Sc. in Computer Science*, University of Example (2015-2019)
+- *M.Sc. in Computer Science*, University of Example (2019-2021)
+
+** Experience
+- *Software Engineer*, Example Corp (2021-Present)
+  Working on distributed systems and high-performance computing.
+
+* Papers & Publications
+1. Gonzalez, J., et al. "An interesting paper on Distributed Systems." /Journal of Computer Science/ (2023).
+2. Gonzalez, J., et al. "Another paper." /Conference on Systems/ (2022).
+
+* Technical Setup
+Because Hugo natively understands Org-mode, I can embed code directly in my CV or technical pages easily:
+
+#+begin_src python
+def hello_world():
+    print("This is rendered perfectly by Hugo!")
+
+hello_world()
+#+end_src
