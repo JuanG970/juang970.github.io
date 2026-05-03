@@ -1,0 +1,67 @@
+#+title: My Emacs + Hugo Workflow
+#+date: $(date +"%Y-%m-%dT%H:%M:%SZ")
+#+draft: false
+#+tags[]: emacs org-mode workflow
+#+type: post
+
+This is a demonstration of how a technical blog post looks in the new workflow.
+
+* The Day-to-Day Workflow
+
+As a user heavily invested in Emacs and Org-mode, maintaining this blog is extremely low friction.
+
+** 1. Create a new post
+To create a new post, I simply create a new `.org` file in the `content/posts/` directory.
+
+#+begin_src bash
+hugo new content content/posts/my-new-post.org
+#+end_src
+
+*(Alternatively, just open Emacs and create `content/posts/my-new-post.org` and manually type the `#+title`, `#+date`, etc. headers.)*
+
+** 2. Start the local server
+While writing, it's nice to see live updates. I open a terminal and run:
+
+#+begin_src bash
+hugo server -D
+#+end_src
+
+The `-D` flag tells Hugo to also render posts marked with `#+draft: true`. Every time I save the `.org` file in Emacs, the browser at `http://localhost:1313` instantly refreshes.
+
+** 3. Write Technical Content
+This is where Org-mode shines. I can easily mix regular text, mathematical equations, and code snippets.
+
+*** Code Snippets
+Hugo's internal Org parser natively understands `#+begin_src` blocks and applies syntax highlighting automatically based on the `hugo.toml` configuration (we are currently using the `monokai` style).
+
+Let's write a quick Python script to calculate Fibonacci numbers:
+
+#+begin_src python
+def fibonacci(n):
+    if n <= 0:
+        return []
+    elif n == 1:
+        return [0]
+    
+    fib_list = [0, 1]
+    for _ in range(2, n):
+        fib_list.append(fib_list[-1] + fib_list[-2])
+    return fib_list
+
+print(fibonacci(10))
+#+end_src
+
+When rendered by Hugo, this block will have proper syntax highlighting, line numbers, and a handy "Copy" button in the top right corner.
+
+** 4. Publish
+Once I'm happy with the post:
+
+1. Ensure `#+draft: false` is set in the header.
+2. Commit the changes using Magit or the terminal:
+   #+begin_src bash
+   git add content/posts/my-new-post.org
+   git commit -m "feat: add new post about my workflow"
+   git push origin main
+   #+end_src
+
+GitHub Actions automatically detects the push to `main`, runs Hugo to build the static site, and deploys it to GitHub Pages. Within seconds, the new post is live!
