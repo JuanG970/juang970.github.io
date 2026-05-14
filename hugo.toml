@@ -25,11 +25,11 @@ defaultTheme = "auto" # auto, dark, or light
 
 [params.profileMode]
 enabled = true
-title = "Juan Angel Gonzalez Aguirre"
+title = "Juan Gonzalez"
 subtitle = "Software Engineer & Researcher | Special Projects @ Wolfram"
-imageUrl = "images/profile_pic.jpeg" # Optional: add a profile image URL here
-imageWidth = 150
-imageHeight = 150
+imageUrl = "images/profile_pic.jpeg"
+imageWidth = 205
+imageHeight = 233
 imageTitle = "Juan Gonzalez"
 
 [[params.profileMode.buttons]]
@@ -54,7 +54,7 @@ url = "https://www.linkedin.com/in/jgonzalez-aguirre/"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:contact@juan-gonzalez.com"
+url = "mailto:contact@juan-gonzalez.org"
 
 # Main Menu
 [[menu.main]]

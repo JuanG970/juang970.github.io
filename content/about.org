@@ -7,7 +7,7 @@
 :PROPERTIES:
 :ID:       a552fdfc-abcd-4cfa-81c3-636c2a07adb1
 :END:
-I am *Juan Angel Gonzalez Aguirre*, an experienced Software Engineer with a track record of creating intelligent and robust software systems. As a Special Projects Developer at Wolfram, I translate business requirements into software solutions that effectively solve problems.
+I am *Juan Gonzalez*, an experienced Software Engineer with a track record of creating intelligent and robust software systems. As a Special Projects Developer at Wolfram, I translate business requirements into software solutions that effectively solve problems.
 
 My expertise with the Wolfram technology stack allows for seamless integration with other systems, including relational databases, other programming languages, ERPs, external websites, and RESTful APIs.
 
